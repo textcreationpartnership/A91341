@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir George Pudsey's speech to the King</title>
+            <author>Pudsey, George, Sir, b. 1664?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91341</idno>
+            <idno type="STC">Wing P4171A</idno>
+            <idno type="STC">ESTC R226878</idno>
+            <idno type="EEBO-CITATION">99899759</idno>
+            <idno type="PROQUEST">99899759</idno>
+            <idno type="VID">136214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2447:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir George Pudsey's speech to the King</title>
+                  <author>Pudsey, George, Sir, b. 1664?</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:136214:1" rendition="simple:additions"/>
+            <head>Sir <hi>George Pudſey</hi>'s Speech to the KING.</head>
+            <opener>
+               <salute>Dread Sovereign,</salute>
+            </opener>
+            <p>SO vaſt an Awe and Deference is due to the Majeſty of a Crown<g ref="char:EOLhyphen"/>ed Head, that the moſt
+polite Wit ought to have a great pre<g ref="char:EOLhyphen"/>ſence of mind, that ſpeaks before Him; therefore one ſo
+un<g ref="char:EOLhyphen"/>worthy of this Honour as my ſelf, humbly implores Your Majeſties patience, and pardon for
+his failings.</p>
+            <p>
+               <hi>Great SIR,</hi> No ſooner Your Majeſty aſcended the Throne of Your Royal Anceſtors,
+but You were proclaimed a Favourite of Heaven, the Wicked were taken in their own Nets, mighty
+Rebels fell before You, and Your Loyal Subjects rejoiced in Peace: Anſwerable to theſe
+glo<g ref="char:EOLhyphen"/>rious beginnings hath been Your Majeſties Character to this moment. Thus Virtuous Princes
+bleſs their people; <hi>Hezekiah's</hi> Holineſs ſaved his Kingdom, when <hi>David</hi>'s Sin
+coſt him 70000 Men. The great <hi>Cy<g ref="char:EOLhyphen"/>rus</hi> was promiſed by Name, long before his Birth, to
+give eaſe and de<g ref="char:EOLhyphen"/>liverance to the poor Captive Jews; and my Information fails me, if Your
+Majeſty was not mentioned more than One Hundred Years ago, by one of Your Royal Predeceſſors,
+to be given us (moſt unworthy of You) to raiſe theſe Nations once again to Glory; For You,
+<hi>Great Sir,</hi> even againſt our Wills will make us Happy: Your Royal Breaſt having
+treaſured up ſuch a Magazine of all Princely Virtues, that were Your Kingdoms Elective, the
+Suffrages and Votes of all men of Ho<g ref="char:EOLhyphen"/>nor, Senſe and Goodneſs, would be given You, with humble
+Supplica<g ref="char:EOLhyphen"/>tions to accept the Royal Diadem. What are not our very Wiſhes in<g ref="char:EOLhyphen"/>dulged in, under Your
+moſt auſpicious Reign? All Fears, but ſuch as attend Women and Children, are removed:
+Property and Liberty, thoſe darling Concerns, are ſo far from being invaded by You, that common
+Aids and Supplies to the King are almoſt forgot by us. Have not we of the Church of
+<hi>England</hi> your Sacred Word (which never failed any yet that relyed on it) to protect her in
+her Rites and Pri<g ref="char:EOLhyphen"/>viledges? As for thoſe of Your Majeſties Communion, Truth will de<g ref="char:EOLhyphen"/>fend me, If
+I ſay, their Sufferings and Loyalties have been great and eminent, and of late, the firſt
+highly injur'd by the Oaths of perjured Villains (too much incouraged); They have your Favour, and
+de<g ref="char:EOLhyphen"/>ſerve a publick Reparation. As Your Majeſty is, ſo is Your Mercy, for are not other
+Diſſenters too as well as them (contrary to the meaſures of another Prince) by Your
+unparallel'd Clemency freed from the Snares of Penal Laws relating to Religion, made purely for the
+Prince's Safety, and concerns no one elſe. This high flight of Royal Grace, ſo like your Great
+Maſter's Example, after ſo much Diſloyalty to the Crown, is ſuch a wonder to the preſent
+Age, that future times
+<pb facs="tcp:136214:2"/>
+will call Romantick. Therefore what Subject, either concerned, or as a Chriſtian (whoſe
+chiefeſt virtue is Charity) will not give his hum<g ref="char:EOLhyphen"/>ble Thanks?</p>
+            <p>Thus far Your Majeſty hath gone by Your undoubted Preroga<g ref="char:EOLhyphen"/>tive; and indeed what is not the
+Prerogative of an Abſolute Monarch, let the Learned determine. Many of them ſay, His
+Condeſcention to Laws is rather a politick Mercy, than any Obligation: But to avoid too nice an
+Inquiry, common Reaſon, and the Kingdoms In<g ref="char:EOLhyphen"/>tereſt, obliges me to believe the concurrence of a
+Parliament to ſo National a Good; And that were it moved by them, and the Royal Aſſent
+denyed, the Writ <hi>de Heretico Comburendo</hi> would be feared again. Theſe Scars in Government
+once perfectly healed, no more Families will be ruined, Priſons filled, or Pockets emptied for
+Con<g ref="char:EOLhyphen"/>ſciences ſake (the Almighty's Province only.) Then will every Subject according to Nature's
+Laws, which no human act can re<g ref="char:EOLhyphen"/>ſtrain, by the moſt ignorant be allowed capable to ſerve Your
+Ma<g ref="char:EOLhyphen"/>jeſty according to his merit. Then all hands will be at work like Bees carrying to the common
+Hive; Trade, the life of every Iſland, flouriſh, Your Majeſties Treaſure and Your Subjects
+Talents increaſe, whilſt You, <hi>Great Sir,</hi> the common Parent of your Country, watches
+for us all. We ſhall then contract the fullen Brows of other Nations, who will hate the Lands of
+their Nativities. Your Majeſty, the Great Monopoliſt of Wiſdom and Experience, knows what
+meaſures beſt to take to attain theſe mighty Ends<hi>:</hi> Your Power is like Your Courage,
+both invincible; A Princes beſt Security. For <hi>Sir,</hi> as Love and Fear ſends Souls to
+Heaven, ſo both together make Monarchs Safe, and Subjects Loyal. Now all Welcome to
+<hi>Caeſar</hi> to his ever Loyal City; and all Joy to us, who moſt humbly and chearfully offer
+up our Hearts and Acclamations to Your Majeſty, for this undeſerved Ho<g ref="char:EOLhyphen"/>nour, in eſteeming us
+worthy of Your Royal Preſence. Our Addreſſes too for Your Gracious Promiſes and Favours
+lately made, and ſhewed to all Your Subjects, would no doubt have rendred us more
+grate<g ref="char:EOLhyphen"/>ful<hi>:</hi> But Your Majeſty, that is not to learn the Conſtitution of the meaneſt
+Borough within your Empire, underſtands what influences this Place. Forgive, <hi>Dread Sir,</hi>
+this Stop and loſs of time to Your Sacred Majeſty. I am ſilent when I have ſaid, All
+Greatneſs attend the KING, and long live <hi>JAMES</hi> the Second.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
